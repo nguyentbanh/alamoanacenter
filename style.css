@@ -1,0 +1,31 @@
+.ui.borderless.topmenu.inverted.menu{
+  border: none;
+  box-shadow: none;
+  background-color: #333;
+  padding: 5px 0 5px 0;
+}
+
+.ui.borderless.middlemenu.menu{
+  background-color: #f9f9f9;
+  box-shadow: none;
+  border-bottom: 2px solid #999;
+  margin-top: -20px;
+  margin-bottom: -2px;
+}
+
+.ui.middleitem.item{
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.2);;
+  border-bottom: 2px solid #999;
+  border: 1px solid #999999;
+  border-top: 0;
+  border-radius: 5px;
+}
+
+.footer-background {
+  background-color: #333;
+  padding: 20px;
+}
+
+.ui.borderless.inverted.menu{
+  background-color: #333;
+}
